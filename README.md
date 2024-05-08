@@ -2,4 +2,4 @@
 
 ## Práctica 15
 
-[Enlace a GitHub Pages](https://github.com/LeeonDeChino/Practica15_LRG)
+[Enlace a GitHub Pages](https://leeondechino.github.io/Practica15_LRG/)
